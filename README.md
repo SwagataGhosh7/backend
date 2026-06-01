@@ -1,6 +1,6 @@
 # Business Intelligence Dashboard Backend API
 
-An intelligent backend system that converts natural language queries into interactive data dashboards using FastAPI, Google Gemini LLM, and SQLAlchemy.
+An intelligent backend system that converts natural language queries into interactive data dashboards using FastAPI, Google Gemini LLM, and SQLAlchemy
 
 ## Table of Contents
 
